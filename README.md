@@ -1,1 +1,1 @@
-# Self-Project
+Sales Insights Project
